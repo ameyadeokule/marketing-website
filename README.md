@@ -12,12 +12,12 @@ Creating a website, landing page with "Call to action", Contact Us page and sect
 
 ### Tasks To Be Completed
 
-Think of a product name
-Gather free pictures
+Think of a product name -completed
+Gather free pictures - completed
 Create a homepage
 Create feature pages
 Create a landing page
 Add a signup form
 Create a contact page
 Add a contact form
-Add contact links to site
+Add contact links to site - completed
