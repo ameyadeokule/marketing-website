@@ -1,6 +1,6 @@
 # Main Aim
 
-To practice React by completing the challenges in the book [https://50reactprojects.com](50 Projects For React & The Static Web). HOPE I CAN COMPLETE SOME GOOD PROJECTS.
+To practice React by completing the challenges in the book [https://50reactprojects.com] (50 Projects For React & The Static Web). HOPE I CAN COMPLETE SOME GOOD PROJECTS.
 
 ## Project Aim
 
