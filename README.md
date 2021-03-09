@@ -18,6 +18,5 @@ Create a homepage
 Create feature pages
 Create a landing page
 Add a signup form
-Create a contact page
 Add a contact form
 Add contact links to site - completed
